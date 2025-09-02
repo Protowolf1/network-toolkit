@@ -1,0 +1,4 @@
+host,reachable,latency_ms,timestamp,raw_exit
+8.8.8.8,True,14.0,2025-09-01T14:30:56Z,0
+1.1.1.1,True,16.0,2025-09-01T14:30:56Z,0
+example.com,True,105.0,2025-09-01T14:30:56Z,0
