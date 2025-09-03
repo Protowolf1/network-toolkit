@@ -2,7 +2,7 @@ hosts.json
 results.json
 __pycache__/
 *.pyc
-# 🌐 Network Utility Toolkit (CLI)
+# Network Utility Toolkit (CLI)
 
 A Python-based command-line toolkit to manage and monitor hosts.  
 It can save host lists, ping hosts with retries, scan multiple hosts, generate reports, and export results to CSV.  
@@ -11,7 +11,7 @@ This is a learning project to practice **Python CLI development**, **file I/O**,
 
 ---
 
-## ✨ Features
+##  Features
 - Add, remove, and list saved hosts
 - Ping a single host with configurable retries and timeouts
 - Scan all saved hosts (results saved to JSON)
@@ -22,11 +22,13 @@ This is a learning project to practice **Python CLI development**, **file I/O**,
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ### Add hosts
 ```bash
 python nettool.py add 8.8.8.8 1.1.1.1 example.com
+
+![Example report](docs/report-2025-09.png)
 
 ## Author
 **Dreon**
